@@ -1,7 +1,7 @@
 # Steps for proper debugging
 
 0. Understand how your code works and adhere to good coding practices.
-   * The best cure is prevention. If you follow the above, you'll not only be less prone to making errors, but fixing the errors will be easier.
+   * The best cure is prevention. If you follow the above, you will not only be less prone to making errors, but fixing the errors will be easier.
    * You can't debug your code properly if you don't understand your code. As you're writing your code, ask yourself what each line of code does. While pairing, don't be afraid to ask for clarification!
 1. Identify the problem:
    * Was an error thrown? If so, proceed to step 2.
